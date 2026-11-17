@@ -1,23 +1,29 @@
 # Cheap MeshCore Rooftop Repeater
 
-Solar-battery MeshCore repeater built on the battery-powered RAK WisMesh 1 W kit (RAK3401 + RAK13302 + RAK19007). Parts total $116 before shipping and tax.
+Solar-battery MeshCore repeater built on the battery-powered RAK WisMesh 1 W kit (RAK3401 + RAK13302 + RAK19007). Sourced parts are $138.93. With the published US shipping and a 7.53% average combined sales tax, the total is $149.39. Atlavox and Wireless Haven still add whatever delivery their checkout quotes.
 
 This is the battery-powered RAK13302. The power amplifier is fed by a trace on the RAK19007, so the roof harness has no separate 5 V lead. Current kits are sold as two different modules, battery-powered or external 5 V, and they are not interchangeable.
 
 ## Parts
 
-| Part | What to buy | About |
-| --- | --- | --- |
-| Radio | WisMesh 1W starter kit, battery powered, your band | $39 |
-| Battery | Protected 3.7 V Li-ion, 5000 mAh, JST-PH 2.0, at least 1.5 A discharge | $12 |
-| Panel | 5 V, about 5 W. Open-circuit voltage at or under 5.5 V | $15 |
-| Antenna | Outdoor fiberglass omni for that band, 3–5 dBi | $20 |
-| Box | Light-colored IP65 ABS, about 150 × 110 × 70 mm | $12 |
-| RF exit | SMA bulkhead and a short pigtail from the module IPEX | $10 |
-| Hardware | Cable gland, small heatsink, strap, screws | $8 |
-| **Total** | | **$116** |
+Prices were read on 17 November 2026. The radio is the US915 battery-powered kit. The antenna is N-male, so the roof pigtail is an N-female bulkhead to an SMA male, which mates with the IPEX-to-SMA lead in the kit.
 
-The kit already includes a rubber-duck antenna, BLE antenna, USB cable, IPEX-to-SMA lead, and screws. The duck is for the bench. The roof antenna is a separate part.
+| Part | Listing | Price |
+| --- | --- | --- |
+| Radio | [Rokland WisMesh High Power Booster, battery powered, SKU 116256](https://store.rokland.com/products/wismesh-high-power-booster-starter-kit-with-nrf52840-sx1262-and-sky66122-pa-for-extended-meshtastic-range) | $49.97 |
+| Battery | [Winfox 3.7 V 5000 mAh, JST-PH 2.0, protected](https://www.amazon.com/Winfox-Rechargeable-Connector-Bluetooth-Portable/dp/B0GDQG4DYT) | $13.99 |
+| Panel | [Atlavox 5 W ETFE, JST ZHR-2](https://atlavox.com/products/solar-panel-5w). Sold out. Listed as 5–6 V | $16.99 |
+| Antenna | [Bingfu 915 MHz 3 dBi fiberglass, N-male](https://www.amazon.com/dp/B09GVP14NS) | $29.99 |
+| Box | [Aexit IP65 ABS, 150 × 110 × 70 mm, with cable gland](https://www.amazon.com/Aexit-Accessories-Waterproof-Uninterrupted-150x110x70mm/dp/B07L6BQH6Z) | $13.20 |
+| RF exit | [Wireless Haven N-female bulkhead to SMA male, 6 inch](https://thewirelesshaven.com/product-category/cables/pigtail-cables/sma-pigtails/) | $6.20 |
+| Heatsink | [uxcell 15 × 11 × 5 mm adhesive aluminum, 20 pack](https://www.amazon.com/uxcell-15x11x5mm-Adhesive-Aluminum-Electronics/dp/B093TY94GK) | $8.59 |
+| **Parts** | | **$138.93** |
+| Shipping | Rokland US orders of $20 or more ship free. This radio order is $49.97 | $0.00 |
+| Shipping | Atlavox and Wireless Haven calculate delivery at checkout. Those two fees are not in the total | — |
+| Tax | 7.53% of the parts. Population-weighted US state and local average, Tax Foundation, July 2026. A local rate will differ | $10.46 |
+| **Total** | Parts, published shipping, and that tax | **$149.39** |
+
+The kit already includes a rubber-duck antenna, BLE antenna, USB cable, IPEX-to-SMA lead, and screws. The duck is for the bench. The roof antenna is the Bingfu line above. The box listing includes the cable gland and mounting screws.
 
 ## Wiring
 
