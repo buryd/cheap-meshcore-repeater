@@ -1,6 +1,6 @@
 # Cheap MeshCore Rooftop Repeater
 
-Solar-battery MeshCore repeater built on the battery-powered RAK WisMesh 1 W kit (RAK3401 + RAK13302 + RAK19007). Parts run about $115.
+Solar-battery MeshCore repeater built on the battery-powered RAK WisMesh 1 W kit (RAK3401 + RAK13302 + RAK19007). Parts total $116 before shipping and tax.
 
 This is the battery-powered RAK13302. The power amplifier is fed by a trace on the RAK19007, so the roof harness has no separate 5 V lead. Current kits are sold as two different modules, battery-powered or external 5 V, and they are not interchangeable.
 
@@ -15,6 +15,7 @@ This is the battery-powered RAK13302. The power amplifier is fed by a trace on t
 | Box | Light-colored IP65 ABS, about 150 × 110 × 70 mm | $12 |
 | RF exit | SMA bulkhead and a short pigtail from the module IPEX | $10 |
 | Hardware | Cable gland, small heatsink, strap, screws | $8 |
+| **Total** | | **$116** |
 
 The kit already includes a rubber-duck antenna, BLE antenna, USB cable, IPEX-to-SMA lead, and screws. The duck is for the bench. The roof antenna is a separate part.
 
